@@ -1,0 +1,19 @@
+body{
+    background-image: url(Gambar1.jpg);
+    background-size: 70%;
+    background-position: center;
+    background-attachment: fixed;
+}
+.kotaktransparan{
+    width: 70%;
+    height: 14%;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+h3,h4{
+    margin-top: 2px;
+    margin-left: 20px;
+    color: white;
+}

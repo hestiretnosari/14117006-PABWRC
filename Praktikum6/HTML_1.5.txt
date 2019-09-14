@@ -1,0 +1,17 @@
+Nama	: Hesti Retnosari
+NIM	: 14117006
+Kelas	: Pemrogramman Web RC
+
+1. Lakukanlah perubahan pada kode HTML sesuai keinginan anda, Pernakah terjadi error ketika ada kesalahan kode? 
+   Jawab :
+   Perubahan kode HTML yang saya lakukan yaitu terletak pada pengubahan gambar, yang pada sebelumnya belum terdapat gambar lalu saya tambahkan gambar pada kode HTML tersebut supaya pada web nya terdapat gambar seperti yang saya inginkan.
+   Saya belum pernah mengalami error saat terjadi kesalahan kode. 
+
+2. Cobalah ubah nilai meta refresh <meta HTTP-EQUIV="REFRESH" content="5; url=http://google.co.id"> apa yang terjadi?, maka jelaskan apa diantara kegunaan meta dokumen?
+   Jawab : 
+   Meta dokumen berguna untuk mengalihkan halaman website yang tidak terpakai ke halaman website baru. Pengubahan kode yang dilakukan memberikan perintah refresh selama 5 detik, setelah itu maka akan dialihkan ke alamat google.co.id
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+   Jawab :
+    Tag pembuka (<thead>) wajib ditulis, sedangkan tag penutup (</thead>) boleh diabaikan (tidak ditulis) apabila setelah element <thead> tersebut, diikuti langsung oleh element <tbody>
+    <thead> element digunakan untuk mengelompokkan konten yang terletak di kepala (atas) sebuah tabel. Di dalam element <thead> tersebut, harus ditulis element <tr> yang menunjukkan table row atau baris sebuah table.
+    <thead> element juga digunakan bersamaan dengan element <tbody> yang menunjukkan isi tabel. td digunakan untuk membuat isi dari baris sedangkan th digunakan untuk membuat judul pada sebuah tabel seperti nomor dan nama serta ditandai dengan huruf bold.
