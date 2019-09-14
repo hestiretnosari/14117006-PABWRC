@@ -1,0 +1,8 @@
+.kotak_gradien{
+    background: linear-gradient(black, blue);
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
