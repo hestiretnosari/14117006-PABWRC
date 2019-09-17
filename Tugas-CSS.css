@@ -1,0 +1,85 @@
+.kotakatas {
+    color: black;
+    font-size: 24pt;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    min-height: 60px;
+    background-color: #EFE4B0
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    font: bold;
+}
+
+.menu ul {
+    color: black;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    background: gainsboro;
+    min-height: 30px;
+}
+
+.menu li {
+    list-style: none;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    display: inline-block;
+    position: relative;
+}
+
+.menu li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    line-height: 30px;
+    padding: 0px 15px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.menu li:hover>a {
+    background-color: #244B87;
+    color: #fff;
+}
+
+body {
+    width: 960px;
+    margin: 0px auto;
+    background-image: url(latar.png);
+    background-attachment: fixed;
+}
+
+main {
+    display: flex;
+}
+
+header {
+    display: flex;
+}
+
+.footer {
+    margin-bottom: 5px;
+    padding: 10px 0;
+    width: 100%;
+    background: #C3C3C3;
+    text-align: center;
+    line-height: 5px;
+}
+
+.konten {
+    width: 100%;
+    background: #EFE4B0;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
