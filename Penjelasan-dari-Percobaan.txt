@@ -1,0 +1,19 @@
+Penjelasan drai Percobaa :
+1. Percobaan 1
+	Membuat file dalma format scss dan html, lalu file scss di compile kedalam bentuk css
+2. Percobaan 2
+	Sama seperti percobaan satu, hanya saja dipercobaan 2 mempraktikkan tentang nested yang digunakan untuk properti.
+	jadi nested properti merupakan pendeklarasian kelas dalam kelas yang akan memudahkan programmer dalam menulis code dalam skala berulang-ulang.
+3. Percobaan 3
+	Mempraktikkan bagaimana variable yang ada didalam SASS
+4. Percobaan 4
+	Mempraktikkan tentang Partials dan Import pada SASS, dimana folder css dan file akan ditambahkan secara otomatis setelah proses compile
+5. Percobaab 5
+	Mempraktikkan bagaimana cara menggunakan mixin, fungsinya untuk menggunakan ulang beberapa grup deklarasi CSS.
+	Setelah melakukan percobaan maka yang terjadi adalah terjadinya penambahan file setelah compile file mixins.scss
+6. Percobaan 6
+	Mempraktikkan extend/inheritance yang mana fitur ini memungkinkan untuk berbagi bebereapa properti dengan selektor yang lain.
+7. Percobaan 7
+	Mempraktikan tentang operator pada SASS, yang mana pada percobaan ini mempraktikkan operator / dan *, dan hasil nya tertera pada file css nya.
+8. Percobaan 8
+	Pada percobaan 8 ini muncul warning/peringatan pada saat compile file list.scss kedalam list.css
